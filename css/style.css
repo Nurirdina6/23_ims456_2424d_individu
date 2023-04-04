@@ -1,4 +1,30 @@
+body
+   {
+       background-color:lavenderblush;
+   }
+
 h1
-{
-    color:indianred;
-}
+   {
+       color:darksalmon;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       font-style:unset;
+   }
+
+a
+   {
+       text-decoration:none;
+       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       padding: 10px;
+       font-size: 16pt;
+       color:darkolivegreen;
+
+   }
+
+
+a:hover
+   {
+       color:honeydew;
+       font-size: 18pt;
+
+
+   }
