@@ -1,30 +1,74 @@
 body
-   {
-       background-color:lavenderblush;
-   }
+{
+    background-color: blueviolet;
+}
+
 
 h1
-   {
-       color:darksalmon;
-       font-family:Verdana, Geneva, Tahoma, sans-serif;
-       font-style:unset;
-   }
+    {
+    color: rgb(84, 132, 160);
+    font-family: 'Times New Roman', Times, serif;
+    }
 
 a
-   {
-       text-decoration:none;
-       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-       padding: 10px;
-       font-size: 16pt;
-       color:darkolivegreen;
-
-   }
-
+{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    font-size: 16pt;
+    color: brown;
+}
 
 a:hover
-   {
-       color:honeydew;
-       font-size: 18pt;
+{
+    color: chocolate;
+    font-size: 18pt;
+}
 
 
-   }
+.header
+{
+    width: 100%;
+    background-color: blanchedalmond;
+    padding-bottom: 30px ;
+}
+
+.slider
+{
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+
+.box1
+{
+    width: 25%;
+    background-color: crimson;
+    padding-bottom: 200%;
+    float: left;
+}
+
+
+.box2
+{
+    width: 25%;
+    background-color: rgb(226, 114, 137);
+    padding-bottom: 200%;
+    float: left;
+}
+
+.box3
+{
+    width: 25%;
+    background-color: crimson;
+    padding-bottom: 200%;
+    float: left;
+}
+
+.box4
+{
+    width: 25%;
+    background-color: rgb(189, 84, 105);
+    padding-bottom: 200%;
+    float: left;
+}
